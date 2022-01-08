@@ -1,2 +1,11 @@
 #   VSCODE
 .vscode
+
+# AI
+*.ai
+
+# PNG
+*.png
+
+# TXT
+*.txt
